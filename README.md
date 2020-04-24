@@ -8,5 +8,3 @@
 * CSS (Flex + Grid)
 * Адаптивная вёрстка
 * БЭМ Nested
-
-## [Ознакомиться с сайтом](https://rshipulin.github.io/russian-travel/index.html)
